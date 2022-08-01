@@ -5,34 +5,34 @@
 
 | Week |    Dates   |    Topics and Reading Materials                |     Deliverables     |
 |------|:-----------|------------------------------------------------|----------------------|
-| 1  | 9/1/2021  | Introduction  |                    |
-| 2  | 9/6/2021   |     No class (Labor day)                       |                    | 
-|    | 9/8/2021   | Linear algebra (Vectors and their operations) |                    |
-| 3  | 9/13/2021  | Linear algebra (Matrices and their operations)   |  |
-|    | 9/15/2021  | Linear algebra (Matrix Norms, Inverses, and Types of Matrix)  |                    | 
-| 4  | 9/20/2021  | Linear algebra (Linear transformation) |    |
-|    | 9/22/2021  | Linear algebra (Vector space) | Homework 1 | 
-| 5  | 9/27/2021  | Linear algebra (System of linear equations) |  |
-|    | 9/29/2021  | Linear algebra (LU and QR Decomposition)   |  |
-| 6  | 10/4/2021  |  Linear algebra (Eigendecomposition) | |
-|    | 10/6/2021  |  Linear algebra (SVD) |  |
-| 7  | 10/11/2021  | Probability (random variables, expectations, moments) |  |
-|    | 10/13/2021  | Probability (probability distributions) | |
-| 8  | 10/18/2021 | Sampling and Likelihood Functions    | Homework 2 | 
-|    | 10/20/2021 | Exponential Family and Generalized Linear Model   |  |
-| 9  | 10/25/2021 | No class (break day) |  |
-|    | 10/27/2021 | Exam | |
-| 10 | 11/1/2021 |  Statistical Inference (MLE, MAP) | |
-|    | 11/3/2021 |  Statistical Inference (Bayesian) |  |
-| 11 | 11/8/2021  | Limit theorems and concentration inequalities | |
-|    | 11/10/2021 | Random walk and Markov chain | Homework 3 |
-| 12 | 11/15/2021 | MCMC (Metropolis Hastings and Gibbs sampling) |  |
-|    | 11/17/2021 | Basic Optimization |  |
-| 13 | 11/22/2021 | Basic Optimization | |
-|    | 11/24/2021 | Basic optimization |  |
-| 14 | 11/29/2021 | Advanced optimization |  |
-|    | 12/1/2021 |  Advanced Optimization | Homework 4 | 
-| 15 | 12/6/2021  | Neural networks   | |
-|    | 12/8/2021  | Neural networks | Project |
+| 1  | 8/31/2022  | Introduction  |                    |
+| 2  | 9/5/2022   |     No class (Labor day)                       |                    | 
+|    | 9/7/2022   | Linear algebra (Vectors and their operations) |                    |
+| 3  | 9/12/2022  | Linear algebra (Matrices and their operations)   |  |
+|    | 9/14/2022  | Linear algebra (Matrix Norms, Inverses, and Types of Matrix)  |                    | 
+| 4  | 9/19/2022  | Linear algebra (Linear transformation) |    |
+|    | 9/21/2022  | Linear algebra (Vector space) |  | 
+| 5  | 9/26/2022  | Linear algebra (System of linear equations) |  |
+|    | 9/28/2022  | Linear algebra (LU and QR Decomposition)    |  |
+| 6  | 10/3/2022  |  Linear algebra (Eigendecomposition) | |
+|    | 10/5/2022  |  Linear algebra (SVD) |  |
+| 7  | 10/10/2022  | Probability (random variables, expectations, moments) |  |
+|    | 10/12/2022  | Probability (probability distributions) | |
+| 8  | 10/17/2022 | Sampling and Likelihood Functions    |  | 
+|    | 10/19/2022 | Exponential Family and Generalized Linear Model   |  |
+| 9  | 10/24/2022 | No class (break day) |  |
+|    | 10/26/2022 | Exam | |
+| 10 | 10/31/2022 |  Statistical Inference (MLE, MAP) |  |
+|    | 11/2/2022 |  Statistical Inference (Bayesian)  |  |
+| 11 | 11/7/2022  | Limit theorems and concentration inequalities |  |
+|    | 11/9/2022 | Random walk and Markov chain                   |  |
+| 12 | 11/14/2022 | MCMC (Metropolis Hastings and Gibbs sampling) |  |
+|    | 11/16/2022 | Basic Optimization |  |
+| 13 | 11/21/2022 | Basic Optimization |  |
+|    | 11/23/2022 | Basic optimization |  |
+| 14 | 11/28/2022 | Advanced optimization  |  |
+|    | 11/30/2022 | Advanced Optimization  |  | 
+| 15 | 12/5/2022  | Neural networks   |  |
+|    | 12/7/2022  | Neural networks   |  |
 
 
