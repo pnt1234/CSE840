@@ -10,12 +10,12 @@
 |    | 9/7/2022   | Linear algebra (Vectors and their operations) |                    |
 | 3  | 9/12/2022  | Linear algebra (Matrices and their operations)   |  |
 |    | 9/14/2022  | Linear algebra (Matrix Norms, Inverses, and Types of Matrix)  |                    | 
-| 4  | 9/19/2022  | Linear algebra (Linear transformation) |    |
-|    | 9/21/2022  | Linear algebra (Vector space) |  | 
-| 5  | 9/26/2022  | Linear algebra (System of linear equations) |  |
-|    | 9/28/2022  | Linear algebra (LU and QR Decomposition)    |  |
-| 6  | 10/3/2022  |  Linear algebra (Eigendecomposition) | |
-|    | 10/5/2022  |  Linear algebra (SVD) |  |
+| 4  | 9/19/2022  | Linear algebra (Vector space) |    |
+|    | 9/21/2022  | Linear algebra (System of Linear Equations) |  | 
+| 5  | 9/26/2022  | Linear algebra (Linear Transformation) |  |
+|    | 9/28/2022  | Linear algebra (Matrix Factorization)    |  |
+| 6  | 10/3/2022  |  Linear algebra (Eigenvalue Equation) | |
+|    | 10/5/2022  |  Linear algebra (Singular Value Decomposition) |  |
 | 7  | 10/10/2022  | Probability (random variables, expectations, moments) |  |
 |    | 10/12/2022  | Probability (probability distributions) | |
 | 8  | 10/17/2022 | Sampling and Likelihood Functions    |  | 
