@@ -10,7 +10,7 @@
 |    | 9/7/2022   | Linear algebra (Vectors and their operations) |                    |
 | 3  | 9/12/2022  | Linear algebra (Matrices and their operations)   |  |
 |    | 9/14/2022  | Linear algebra (Matrix Norms, Inverses, and Types of Matrix)  |                    | 
-| 4  | 9/19/2022  | Linear algebra (Vector space and Least Square) |    |
+| 4  | 9/19/2022  | Linear algebra (Vector space and Least Square Method) |    |
 |    | 9/21/2022  | Linear algebra (Linear Transformation) |  | 
 | 5  | 9/26/2022  | Linear algebra (System of Linear Equations) |  |
 |    | 9/28/2022  | Linear algebra (Matrix Factorization)    |  |
