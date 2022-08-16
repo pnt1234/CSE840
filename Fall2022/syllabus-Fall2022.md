@@ -49,7 +49,7 @@ The topics to be covered in this course include:
 - Random walk and Markov chain Monte Carlo (chapter 4 of Blum et al 2020).
 - Artificial neural networks.
 
-A tentative class schedule can be found [here](https://pnt1234.github.io/CSE840/Fall2022/schedule)
+A tentative class schedule can be found [here](https://pnt1234.github.io/CSE840/Fall2022/schedule-Fall2022)
 
 ### Course Assessment:
 Students will be assessed based on the following:
@@ -71,7 +71,7 @@ The final grade will be determined based on the following scale:
 | 1.0 | [60,65)  |
 
 ### Important Dates:
-The last day for online add period is Sept 7, 2022. The last day to drop this course with tuition refund is Sept 23, 2022. Middle of semester and Last date to drop with no grade reported is Tuesday, October 18 8:00 pm. More details about the academic calendar can be found at [https://reg.msu.edu/ROInfo/Calendar/Academic.aspx](https://reg.msu.edu/ROInfo/Calendar/Academic.aspx). Other important dates:
+The last day for online add period is Sept 7, 2022. The last day to drop this course with tuition refund is Sept 23, 2022. Middle of the semester and last date to drop with no grade reported is October 18 before 8:00 pm. More details about the academic calendar can be found at [https://reg.msu.edu/ROInfo/Calendar/Academic.aspx](https://reg.msu.edu/ROInfo/Calendar/Academic.aspx). Other important dates:
 - Sept 5, 2022: No class (due to Labor day)
 - Oct 24, 2022: No class (break day)
 
