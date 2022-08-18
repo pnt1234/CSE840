@@ -12,7 +12,7 @@
 ### Course Description: 
 This introductory course is intended to provide the mathematical foundations needed for students interested in AI, machine learning, and other related fields. 
 Upon completion of the course, students are expected to have acquired the mathematical background needed to enroll in graduate-level courses such as CSE 802, 
-CSE 881, CSE 847, and CSE 891 (deep learning). The course will cover fundamental topics in linear algebra, probability and statistics, and optimization, as well 
+CSE 881, CSE 847, and CSE 849. The course will cover fundamental topics in linear algebra, probability and statistics, and optimization, as well 
 as some basic concepts in learning from data. The course assumes students already have some experience programming in python.
 
 There is no textbook for the class. The materials for the lecture will be adapted from the following recommended books: 
