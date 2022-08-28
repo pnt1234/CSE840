@@ -8,6 +8,8 @@
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)]
 - Instructor's office hours: Mon, Wed 4:25-5:25pm
+- Teaching Assistant: Junwen Chen [[email](mailto:chenjunw@msu.edu)]
+- TA's office hours: Thur 12:00-1:00pm, Fri 5:00-6:00pm
 
 ### Course Description: 
 This introductory course is intended to provide the mathematical foundations needed for students interested in AI, machine learning, and other related fields. 
