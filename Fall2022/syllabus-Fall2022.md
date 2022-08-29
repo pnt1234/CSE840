@@ -34,7 +34,6 @@ You will meet the objectives listed above through a combination of the following
 
 ### Course Requirements:
 -	Access to [Desire2Learn](https://d2l.msu.edu) (D2L) and [Piazza](https://piazza.com/msu/fall2022/cse840/home). 
--	Ability to scan and upload documents.
 -	Laptop or desktop computer with capabilities to write and execute python programs. 
 
 ### Course Delivery:
