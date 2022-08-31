@@ -30,7 +30,7 @@ The primary learning objectives of this course are:
 
 You will meet the objectives listed above through a combination of the following activities in this course: 
 - Attend and participate in the discussion during lecture.
-- Complete the quizzes, homework assignments, exam, and project. 
+- Successfully complete the quizzes, homework assignments, exam, and project. 
 
 ### Course Requirements:
 -	Access to [Desire2Learn](https://d2l.msu.edu) (D2L) and [Piazza](https://piazza.com/msu/fall2022/cse840/home). 
