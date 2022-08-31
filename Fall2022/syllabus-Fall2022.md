@@ -1,4 +1,4 @@
-## CSE840: Computational Foundations of Artificial Intelligence (Fall 2022)
+## CSE840: Computational Foundations in Artificial Intelligence (Fall 2022)
 ---
 
 ### General Information:
