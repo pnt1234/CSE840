@@ -18,10 +18,10 @@
 |    | 10/5/2022  |  Linear algebra (Singular Value Decomposition) |  |
 | 7  | 10/10/2022  | Probability (random variables, expectations, moments) |  |
 |    | 10/12/2022  | Probability (probability distributions) | |
-| 8  | 10/17/2022 | Sampling and Likelihood Functions    |  | 
-|    | 10/19/2022 | Exponential Family and Generalized Linear Model   |  |
+| 8  | 10/17/2022 | Exam  |  | 
+|    | 10/19/2022 | Sampling and Likelihood Functions |  |
 | 9  | 10/24/2022 | No class (break day) |  |
-|    | 10/26/2022 | Exam | |
+|    | 10/26/2022 | Exponential Family and Generalized Linear Model | |
 | 10 | 10/31/2022 |  Statistical Inference (MLE, MAP) |  |
 |    | 11/2/2022 |  Statistical Inference (Bayesian)  |  |
 | 11 | 11/7/2022  | Limit theorems and concentration inequalities |  |
