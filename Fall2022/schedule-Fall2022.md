@@ -2,6 +2,7 @@
 ---
  Below is a tentative schedule for the class. Instructor reserves the right to modify it. Please check back regularly. 
 
+**Note:** Quizzes are due on Fridays (before midnight) and homeworks are usually due on Sundays (before midnight) unless stated otherwise.
 
 | Week |    Dates   |    Topics and Reading Materials                |     Deliverables     |
 |------|:-----------|------------------------------------------------|----------------------|
