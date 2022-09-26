@@ -12,11 +12,11 @@
 | 3  | 9/12/2022  | Linear algebra (Matrices and their operations)   |  |
 |    | 9/14/2022  | Linear algebra (Matrix Norms, Inverses, and Types of Matrix)  |     Quiz 2 | 
 | 4  | 9/19/2022  | Linear algebra (Vector space and Least Square Method) |    |
-|    | 9/21/2022  | Linear algebra (Linear Transformation) |  Quiz 3 & Homework 1 | 
-| 5  | 9/26/2022  | Linear algebra (System of Linear Equations) |  |
-|    | 9/28/2022  | Linear algebra (Matrix Factorization)    | Quiz 4 |
+|    | 9/21/2022  | Linear algebra (Vector space and Least Square Method) |  Quiz 3 & Homework 1 | 
+| 5  | 9/26/2022  | Linear algebra (Linear Transformation) |  |
+|    | 9/28/2022  | Linear algebra (System of Linear Equations)   | Quiz 4 |
 | 6  | 10/3/2022  |  Linear algebra (Eigenvalue Equation) | |
-|    | 10/5/2022  |  Linear algebra (Singular Value Decomposition) | Quiz 5 |
+|    | 10/5/2022  |  Linear algebra (Singular Value Decomposition) | Quiz 5 & Homework 2 |
 | 7  | 10/10/2022  | Probability (random variables, expectations, moments) |  |
 |    | 10/12/2022  | Probability (probability distributions) | Quiz 6 |
 | 8  | 10/17/2022 | Exam  |  | 
