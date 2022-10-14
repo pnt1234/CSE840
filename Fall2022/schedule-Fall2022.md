@@ -17,13 +17,13 @@
 |    | 9/28/2022  | Linear algebra (System of Linear Equations)   | Quiz 4 |
 | 6  | 10/3/2022  |  Linear algebra (Eigenvalue Equation) | |
 |    | 10/5/2022  |  Linear algebra (Matrix factorization) | Homework 2 |
-| 7  | 10/10/2022  | Linear algebra (Singular Value Decomposition) |  |
-|    | 10/12/2022  | Probability (random variables, expectations, moments) | Quiz 5 |
+| 7  | 10/10/2022  | Linear algebra (Matrix factorization) |  |
+|    | 10/12/2022  | Linear algebra (Singular Value Decomposition) | Quiz 5 |
 | 8  | 10/17/2022 | Exam  |  | 
-|    | 10/19/2022 | Probability (probability distributions) | Quiz 6 |
+|    | 10/19/2022 | Probability (random variables, expectations, moments) | Quiz 6 |
 | 9  | 10/24/2022 | No class (break day) |  |
-|    | 10/26/2022 | Sampling and Likelihood Functions | Quiz 7 |
-| 10 | 10/31/2022 | Exponential Family and Generalized Linear Model  |  |
+|    | 10/26/2022 | Probability (probability distributions) | Quiz 7 |
+| 10 | 10/31/2022 | Sampling and Likelihood Functions  |  |
 |    | 11/2/2022 |   Statistical Inference (MLE, MAP) | Quiz 8  |
 | 11 | 11/7/2022  | Statistical Inference (Bayesian) |  |
 |    | 11/9/2022 |  Limit theorems and concentration inequalities                  | Quiz 9 |
