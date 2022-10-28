@@ -30,10 +30,10 @@
 | 12 | 11/14/2022 | Random walk and Markov chain |  |
 |    | 11/16/2022 | MCMC (Metropolis Hastings and Gibbs sampling) | Quiz 10 |
 | 13 | 11/21/2022 | Basic Optimization |  |
-|    | 11/23/2022 | Basic optimization | Quiz 11 |
+|    | 11/23/2022 | Basic optimization | Quiz 11 & Homework 4|
 | 14 | 11/28/2022 | Basic Optimization  |  |
 |    | 11/30/2022 | Advanced Optimization  | Quiz 12 | 
 | 15 | 12/5/2022  | Advanced optimization   |  |
-|    | 12/7/2022  | Neural networks   |  |
+|    | 12/7/2022  | Neural networks   | Project |
 
 
