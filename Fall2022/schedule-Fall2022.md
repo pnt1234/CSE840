@@ -24,7 +24,7 @@
 | 9  | 10/24/2022 | No class (break day) |  |
 |    | 10/26/2022 | Probability (probability distributions) | Quiz 7 |
 | 10 | 10/31/2022 | Sampling and Likelihood Functions  |  |
-|    | 11/2/2022 |   Statistical Inference (MLE, MAP) | Quiz 8  |
+|    | 11/2/2022 |   Statistical Inference (MLE, MAP) | Quiz 8  & Homework 3 |
 | 11 | 11/7/2022  | Statistical Inference (Bayesian) |  |
 |    | 11/9/2022 |  Limit theorems and concentration inequalities                  | Quiz 9 |
 | 12 | 11/14/2022 | Random walk and Markov chain |  |
