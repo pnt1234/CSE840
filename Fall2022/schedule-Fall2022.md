@@ -30,10 +30,10 @@
 | 12 | 11/14/2022 |  Limit theorems and concentration inequalities |  |
 |    | 11/16/2022 | Random walk and Markov chain | Quiz 10 |
 | 13 | 11/21/2022 | MCMC (Metropolis Hastings and Gibbs sampling) |  |
-|    | 11/23/2022 | Basic optimization | Quiz 11 |
-| 14 | 11/28/2022 | Basic Optimization  |  |
-|    | 11/30/2022 | Advanced Optimization  | Quiz 12 & Homework 4 | 
-| 15 | 12/5/2022  | Advanced optimization   |  |
+|    | 11/23/2022 | Optimization (Gradient Descent) | Quiz 11 |
+| 14 | 11/28/2022 | Optimization (Convexity and Line Search) |  |
+|    | 11/30/2022 | Optimization (Variations of Gradient Descent) | Quiz 12 & Homework 4 | 
+| 15 | 12/5/2022  | Optimization (Alternative First-order and Second-order methods)  |  |
 |    | 12/7/2022  | Neural networks   | Project |
 
 
