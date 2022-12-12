@@ -10,10 +10,10 @@
 | 2  | 9/5/2022   |     No class (Labor day)                       |                    | 
 |    | 9/7/2022   | Linear algebra (Vectors and their operations) |        Quiz 1       |
 | 3  | 9/12/2022  | Linear algebra (Matrices and their operations)   |  |
-|    | 9/14/2022  | Linear algebra (Matrix Norms, Inverses, and Types of Matrix)  |     Quiz 2 | 
-| 4  | 9/19/2022  | Linear algebra (Vector space and Least Square Method) |    |
+|    | 9/14/2022  | Linear algebra (Matrix Power and Norms)  |     Quiz 2 | 
+| 4  | 9/19/2022  | Linear algebra (Types of Matrices) |    |
 |    | 9/21/2022  | Linear algebra (Vector space and Least Square Method) |  Quiz 3 & Homework 1 | 
-| 5  | 9/26/2022  | Linear algebra (Linear Transformation) |  |
+| 5  | 9/26/2022  | Linear algebra (Linear Transformation and Diagonalizable Matrices) |  |
 |    | 9/28/2022  | Linear algebra (System of Linear Equations)   | Quiz 4 |
 | 6  | 10/3/2022  |  Linear algebra (Eigenvalue Equation) | |
 |    | 10/5/2022  |  Linear algebra (Matrix factorization) | Homework 2 |
