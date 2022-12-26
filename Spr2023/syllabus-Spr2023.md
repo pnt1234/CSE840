@@ -44,7 +44,7 @@ The topics to be covered in this course include:
 - Random walk and Markov chain Monte Carlo (chapter 4 of Blum et al 2020).
 - Artificial neural networks.
 
-A tentative class schedule can be found [here](https://pnt1234.github.io/CSE840/Spr2022/schedule-Spr2022)
+A tentative class schedule can be found [here](https://pnt1234.github.io/CSE840/Spr2023/schedule-Spr2023)
 
 ### Course Assessment:
 Students will be assessed based on the following:
