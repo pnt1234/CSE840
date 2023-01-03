@@ -10,7 +10,7 @@
 |     | 1/11/2023  | Linear algebra (Vectors and their operations)   |                          | 
 | 2   | 1/16/2023  | No class (MLK day)                              |                          |
 |     | 1/18/2023  | Linear algebra (Matrices and their operations)  |                          |
-| 3   | 1/23/2023  | Linear algebra (Matrix Power and Norms)         |                          | 
+| 3   | 1/23/2023  | Linear algebra (Matrices and their operations)  |                          | 
 |     | 1/25/2023  | Linear algebra (Matrix Power and Norms)         |                          | 
 | 4   | 1/30/2023  | Linear algebra (Types of Matrices)              |                          |
 |     | 2/1/2023   | Linear algebra (Vector space and Least Square Method) |                    | 
