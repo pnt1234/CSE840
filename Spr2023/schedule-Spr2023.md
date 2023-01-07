@@ -8,7 +8,7 @@
 |------|:-----------|:-----------------------------------------------|:-------------------------|
 | 1   | 1/10/2023  | Introduction                                    |                          |
 |     | 1/12/2023  | Linear algebra (Vectors and their operations)   |                          | 
-| 2   | 1/17/2023  | Linear algebra (Vectors and their operations)   |                          |
+| 2   | 1/17/2023  | Linear algebra (Vector Norms and Projection)    |                          |
 |     | 1/19/2023  | Linear algebra (Matrices and their operations)  |                          |
 | 3   | 1/24/2023  | Linear algebra (Matrices and their operations)  |                          | 
 |     | 1/26/2023  | Linear algebra (Matrix Power and Norms)         |                          | 
