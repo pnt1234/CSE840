@@ -8,12 +8,12 @@
 |------|:-----------|:-----------------------------------------------|:-------------------------|
 | 1   | 1/10/2023  | Introduction                                    |                          |
 |     | 1/12/2023  | Linear algebra (Vectors and their operations)   |                          | 
-| 2   | 1/17/2023  | Linear algebra (Vector Norms, Projection, and Inequalities)    |                          |
+| 2   | 1/17/2023  | Linear algebra (Vector Norms, Projection, and Inequalities) |              |
 |     | 1/19/2023  | Linear algebra (Matrices and their operations)  |                          |
-| 3   | 1/24/2023  | Linear algebra (Matrices and their operations)  |                          | 
-|     | 1/26/2023  | Linear algebra (Matrix Power and Norms)         |                          | 
-| 4   | 1/31/2023  | Linear algebra (Types of Matrices)              |                          |
-|     | 2/2/2023   | Linear algebra (Vector space and Least Square Method) |                    | 
+| 3   | 1/24/2023  | Linear algebra (Matrix Power and Norms)         |                          | 
+|     | 1/26/2023  | Linear algebra (Special Types of Matrices)      |                          | 
+| 4   | 1/31/2023  | Linear algebra (Vector space)                   |                          |
+|     | 2/2/2023   | Linear algebra (Least Square and Matrix Calculus) |                        | 
 | 5   | 2/7/2023   | Linear algebra (Linear Transformation and Diagonalizable Matrices) |       |
 |     | 2/9/2023   | Linear algebra (System of Linear Equations)     |                          |
 | 6   | 2/14/2023  | Linear algebra (System of Linear Equations)     |                          |
