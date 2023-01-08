@@ -4,7 +4,7 @@
 
 **Note:** Quizzes are due on Fridays (before midnight) and homeworks are usually due on Sundays (before midnight) unless stated otherwise.
 
-| Week |    Dates   |    Topics and Reading Materials                |  Weekly Deliverables     |
+| Week |    Dates   |    Topics and Reading Materials                |      Deliverables        |
 |------|:-----------|:-----------------------------------------------|:-------------------------|
 | 1   | 1/10/2023  | Introduction                                    |                          |
 |     | 1/12/2023  | Linear algebra (Vectors and their operations)   |                          | 
