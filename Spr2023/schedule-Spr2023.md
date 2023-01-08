@@ -20,12 +20,12 @@
 |     | 2/16/2023  | Linear algebra (Eigenvalue Equation)            |                          |
 | 7   | 2/21/2023  | Linear algebra (Matrix factorization)           |                          |
 |     | 2/23/2023  | Linear algebra (Singular Value Decomposition)   |                          |
-| 8   | 2/28/2023  | Linear algebra (Singular Value Decomposition)   |                          | 
+| 8   | 2/28/2023  | Probability (random variables, expectations, moments)   |                          | 
 |     | 3/2/2023   | Exam                                            |                          |
 |     | 3/7/2023   | No class (Spring break)                         |                          |
 |     | 3/9/2023   | No class (Spring break)                         |                          |
-| 9   | 3/14/2023  | Probability (random variables, expectations, moments)  |                   |
-|     | 3/16/2023  | Probability (Probability distribution)          |                          |
+| 9   | 3/14/2023  | Probability (Probability distributions)         |                   |
+|     | 3/16/2023  | Probability (Probability distributions)         |                          |
 | 10  | 3/21/2023  | Sampling and Likelihood Functions               |                          |
 |     | 3/23/2023  | Statistical Inference (MLE, MAP)                |                          |
 | 11  | 3/28/2023  | Statistical Inference (MLE, MAP)                |                          |
