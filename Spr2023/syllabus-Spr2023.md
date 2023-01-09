@@ -34,7 +34,7 @@ You will meet the objectives listed above through a combination of the following
 -	Laptop or desktop computer with capabilities to write and execute python programs. 
 
 ### Course Delivery:
-This course will be delivered in person. You can access the course materials, quizzes, assignments, and other additional resources from D2L. [Piazza](https://piazza.com/msu/spring2023/cse840/home) will be used as the discussion forum for students to ask questions. 
+This course will be delivered in person. However, in the case of an outbreak of the COVID-19 virus, it may be required to temporarily change the instructional modality for this course at the discretion of the instructor. You can access the course materials, quizzes, assignments, and other additional resources from D2L. [Piazza](https://piazza.com/msu/spring2023/cse840/home) will be used as the discussion forum for students to ask questions. 
 
 ### Course Outline: 
 The topics to be covered in this course include:
