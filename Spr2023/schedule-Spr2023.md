@@ -11,17 +11,17 @@
 | 2   | 1/17/2023  | Linear algebra (Vector Norms, Projection, and Inequalities) |              |
 |     | 1/19/2023  | Linear algebra (Matrices and their operations)  |      Quiz 1              |
 | 3   | 1/24/2023  | Linear algebra (Matrix Power and Norms)         |                          | 
-|     | 1/26/2023  | Linear algebra (Vector space)                   |      Quiz 2              | 
+|     | 1/26/2023  | Linear algebra (Vector space)                   |                          | 
 | 4   | 1/31/2023  | Linear algebra (Least Square and Matrix Calculus) |                        |
-|     | 2/2/2023   | Linear algebra (Linear Transformation and Diagonalizable Matrices) |    Quiz 3              | 
+|     | 2/2/2023   | Linear algebra (Linear Transformation and Diagonalizable Matrices) |    Quiz 2              | 
 | 5   | 2/7/2023   | Linear algebra (System of Linear Equations)     |                          |
-|     | 2/9/2023   | Linear algebra (System of Linear Equations)     |      Quiz 4              |
+|     | 2/9/2023   | Linear algebra (System of Linear Equations)     |      Quiz 3              |
 | 6   | 2/14/2023  | Linear algebra (Eigenvectors and Eigenvalues)   |                          |
-|     | 2/16/2023  | Linear algebra (Matrix factorization)           |      Quiz 5              |
+|     | 2/16/2023  | Linear algebra (Matrix factorization)           |      Quiz 4              |
 | 7   | 2/21/2023  | Linear algebra (Singular Value Decomposition)   |                          |
-|     | 2/23/2023  | Probability (random variables, expectations)    |      Quiz 6              |
+|     | 2/23/2023  | Probability (random variables, expectations)    |      Quiz 5              |
 | 8   | 2/28/2023  | Probability (Probability distributions)         |                          | 
-|     | 3/2/2023   | Exam                                            |                          |
+|     | 3/2/2023   | Exam                                            |      Quiz 6                     |
 |     | 3/7/2023   | No class (Spring break)                         |                          |
 |     | 3/9/2023   | No class (Spring break)                         |                          |
 | 9   | 3/14/2023  | Probability (Probability distributions)         |                   |
