@@ -16,25 +16,25 @@
 |     | 2/2/2023   | Linear algebra (Linear Transformation)          |    Quiz 2                | 
 | 5   | 2/7/2023   | Linear algebra (Similarity Transform and Diagonalizable Matrices)     |                          |
 |     | 2/9/2023   | Linear algebra (System of Linear Equations)     |      Quiz 3              |
-| 6   | 2/14/2023  | Linear algebra (System of Linear Equations)     |                          |
-|     | 2/16/2023  | Linear algebra (Eigenvectors and Eigenvalues)   |      Quiz 4              |
-| 7   | 2/21/2023  | Linear algebra (Matrix factorization)           |                          |
-|     | 2/23/2023  | Linear algebra (Singular Value Decomposition)   |      Quiz 5              |
-| 8   | 2/28/2023  | Probability (random variables, expectations)    |                          | 
-|     | 3/2/2023   | Exam                                            |      Quiz 6                     |
+| 6   | 2/14/2023  | Class cancelled                                 |                          |
+|     | 2/16/2023  | Class cancelled                                 |                          |
+| 7   | 2/21/2023  | Linear algebra (System of Linear Equations)     |      Quiz 4              |
+|     | 2/23/2023  | Linear algebra (Eigenvectors and Eigenvalues)   |                          |
+| 8   | 2/28/2023  | Linear algebra (Matrix factorization)           |                          | 
+|     | 3/2/2023   | Linear algebra (Singular Value Decomposition)   |      Quiz 5              |
 |     | 3/7/2023   | No class (Spring break)                         |                          |
 |     | 3/9/2023   | No class (Spring break)                         |                          |
-| 9   | 3/14/2023  | Probability (Probability distributions)         |                   |
-|     | 3/16/2023  | Probability (Probability distributions)         |      Quiz 7              |
-| 10  | 3/21/2023  | Sampling and Likelihood Functions               |                          |
-|     | 3/23/2023  | Statistical Inference (MLE, MAP)                |      Quiz 8              |
-| 11  | 3/28/2023  | Statistical Inference (MLE, MAP)                |                          |
-|     | 3/30/2023  | Statistical Inference (Bayesian)                |      Quiz 9              |
-| 12  | 4/4/2023   | Limit theorems and concentration inequalities   |                          |
-|     | 4/6/2023   | Random walk and Markov chain                    |      Quiz 10             |
-| 13  | 4/11/2023  | MCMC (Metropolis Hastings and Gibbs sampling)   |                          |
-|     | 4/13/2023  | Optimization (Gradient Descent)                 |      Quiz 11             | 
-| 14  | 4/18/2023  | Optimization (Convexity and Line Search)        |                          |
-|     | 4/20/2023  | Optimization (Variations of Gradient Descent)   |      Quiz 12             |
-| 15  | 4/25/2023  | Optimization (Alternative First-order and Second-order methods)  |         |
-|     | 4/27/2023  | Neural networks                                 |                          |
+| 9   | 3/14/2023  | Probability (Probability distributions)         |                          |
+|     | 3/16/2023  | Exam                                            |                          |
+| 10  | 3/21/2023  | Probability (Probability distributions)         |                          |
+|     | 3/23/2023  | Probability (Probability distributions)         |      Quiz 6              |
+| 11  | 3/28/2023  | Sampling and Likelihood Functions               |                          |
+|     | 3/30/2023  | Statistical Inference (MLE, MAP)                |      Quiz 7              |
+| 12  | 4/4/2023   | Statistical Inference (Bayesian)                |                          |
+|     | 4/6/2023   | Limit theorems and concentration inequalities   |      Quiz 8              |
+| 13  | 4/11/2023  | Random walk and Markov chain                    |                          |
+|     | 4/13/2023  | MCMC (Metropolis Hastings and Gibbs sampling)   |      Quiz 9              | 
+| 14  | 4/18/2023  | Optimization (Gradient Descent)                 |                          |
+|     | 4/20/2023  | Optimization (Convexity and Line Search)        |      Quiz 10             |
+| 15  | 4/25/2023  | Optimization (Variations of Gradient Descent)   |                          |
+|     | 4/27/2023  | Optimization (Alternative First-order and Second-order methods)  |         |
