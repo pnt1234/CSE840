@@ -24,9 +24,9 @@
 |     | 3/2/2023   | Linear algebra (Singular Value Decomposition)   |      Quiz 5              |
 |     | 3/7/2023   | No class (Spring break)                         |                          |
 |     | 3/9/2023   | No class (Spring break)                         |                          |
-| 9   | 3/14/2023  | Probability (Probability distributions)         |                          |
+| 9   | 3/14/2023  | Linear algebra (Singular Value Decomposition)   |                          |
 |     | 3/16/2023  | Exam                                            |                          |
-| 10  | 3/21/2023  | Probability (Probability distributions)         |                          |
+| 10  | 3/21/2023  | Probability (Probability)                       |                          |
 |     | 3/23/2023  | Probability (Probability distributions)         |      Quiz 6              |
 | 11  | 3/28/2023  | Sampling and Likelihood Functions               |                          |
 |     | 3/30/2023  | Statistical Inference (MLE, MAP)                |      Quiz 7              |
