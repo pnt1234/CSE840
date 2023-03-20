@@ -31,7 +31,7 @@
 | 11  | 3/28/2023  | Sampling and Likelihood Functions               |                          |
 |     | 3/30/2023  | Statistical Inference (MLE, MAP)                |      Quiz 7              |
 | 12  | 4/4/2023   | Statistical Inference (Bayesian)                |                          |
-|     | 4/6/2023   | Limit theorems and concentration inequalities   |      Quiz 8              |
+|     | 4/6/2023   | Neural Networks                                 |      Quiz 8              |
 | 13  | 4/11/2023  | Random walk and Markov chain                    |                          |
 |     | 4/13/2023  | MCMC (Metropolis Hastings and Gibbs sampling)   |      Quiz 9              | 
 | 14  | 4/18/2023  | Optimization (Gradient Descent)                 |                          |
