@@ -28,7 +28,7 @@
 |     | 3/16/2023  | Exam                                            |                          |
 | 10  | 3/21/2023  | Probability (Probability)                       |                          |
 |     | 3/23/2023  | Probability (Probability distributions)         |      Quiz 6              |
-| 11  | 3/28/2023  | Sampling and Likelihood Functions               |                          |
+| 11  | 3/28/2023  | Probability (Probability distributions)         |                          |
 |     | 3/30/2023  | Statistical Inference (MLE, MAP)                |      Quiz 7              |
 | 12  | 4/4/2023   | Statistical Inference (Bayesian)                |                          |
 |     | 4/6/2023   | Neural Networks                                 |      Quiz 8              |
