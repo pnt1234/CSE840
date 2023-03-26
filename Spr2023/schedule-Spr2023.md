@@ -29,8 +29,8 @@
 | 10  | 3/21/2023  | Probability (Probability)                       |                          |
 |     | 3/23/2023  | Probability (Probability distributions)         |      Quiz 6              |
 | 11  | 3/28/2023  | Probability (Probability distributions)         |                          |
-|     | 3/30/2023  | Statistical Inference (MLE, MAP)                |      Quiz 7              |
-| 12  | 4/4/2023   | Statistical Inference (Bayesian)                |                          |
+|     | 3/30/2023  | Statistical Inference (MLE)                     |      Quiz 7              |
+| 12  | 4/4/2023   | Statistical Inference (MAP and Bayesian)        |                          |
 |     | 4/6/2023   | Neural Networks                                 |      Quiz 8              |
 | 13  | 4/11/2023  | Random walk and Markov chain                    |                          |
 |     | 4/13/2023  | MCMC (Metropolis Hastings and Gibbs sampling)   |      Quiz 9              | 
