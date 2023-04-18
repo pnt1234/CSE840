@@ -31,10 +31,11 @@
 | 11  | 3/28/2023  | Probability (Probability distributions)         |                          |
 |     | 3/30/2023  | Statistical Inference (MLE)                     |      Quiz 7              |
 | 12  | 4/4/2023   | Statistical Inference (MAP and Bayesian)        |                          |
-|     | 4/6/2023   | Neural Networks                                 |      Quiz 8              |
-| 13  | 4/11/2023  | Random walk and Markov chain                    |                          |
-|     | 4/13/2023  | MCMC (Metropolis Hastings and Gibbs sampling)   |      Quiz 9              | 
-| 14  | 4/18/2023  | Optimization (Gradient Descent)                 |                          |
-|     | 4/20/2023  | Optimization (Convexity and Line Search)        |      Quiz 10             |
+|     | 4/6/2023   | Statistical Inference (MAP and Bayesian)        |      Quiz 8              |
+| 13  | 4/11/2023  | Neural Networks                                 |                          |
+|     | 4/13/2023  | Random walk and Markov chain                    |                          | 
+| 14  | 4/18/2023  | MCMC (Metropolis Hastings and Gibbs sampling)   |                          |
+|     | 4/20/2023  | Optimization (Gradient Descent)                 |      Quiz 9              |
 | 15  | 4/25/2023  | Optimization (Variations of Gradient Descent)   |                          |
 |     | 4/27/2023  | Optimization (Alternative First-order and Second-order methods)  |         |
+| 16  |            | Exam week                                       |      Quiz 10             |
