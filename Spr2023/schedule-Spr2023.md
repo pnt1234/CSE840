@@ -36,6 +36,6 @@
 |     | 4/13/2023  | Random walk and Markov chain                    |                          | 
 | 14  | 4/18/2023  | MCMC (Metropolis Hastings and Gibbs sampling)   |                          |
 |     | 4/20/2023  | Optimization (Gradient Descent)                 |      Quiz 9              |
-| 15  | 4/25/2023  | Optimization (Variations of Gradient Descent)   |                          |
-|     | 4/27/2023  | Optimization (Alternative First-order and Second-order methods)  |         |
+| 15  | 4/25/2023  | Optimization (Alternative First-order and Second-order methods)  |         |
+|     | 4/27/2023  | Recap                                           |                          |
 | 16  |            | Exam week                                       |      Quiz 10             |
