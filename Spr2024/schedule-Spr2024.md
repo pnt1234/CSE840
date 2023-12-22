@@ -9,32 +9,32 @@
 | 1    | 1/8/2024   | Introduction                                                |                          |
 |      | 1/10/2024  | Linear algebra (Vectors and their operations)               |                          | 
 | 2    | 1/15/2024  | No class (MLK day)                                          |                          |
-|      | 1/17/2024  | Linear algebra (Vectors and their operations)               |                          |
-| 3    | 1/22/2024  | Linear algebra (Vector Norms, Projection, and Inequalities) |                          | 
-|      | 1/24/2024  | Linear algebra (Matrices and their operations)              |                          | 
-| 4    | 1/29/2024  | Linear algebra (Matrix Power and Norms)                     |                          |
-|      | 1/31/2024  | Linear algebra (Vector space)                               |                          | 
-| 5    | 2/5/2024   | Linear algebra (Matrix Calculus)                            |                          |
-|      | 2/7/2024   | Linear algebra (Linear Transformation)                      |                          |
-| 6    | 2/12/2024  | Linear algebra (Similarity Transform and Diagonalizable Matrices) |                    |
+|      | 1/17/2024  | Linear algebra (Vector Norms, Projection, and Inequalities) |                          |
+| 3    | 1/22/2024  | Linear algebra (Matrices and their operations)              |
+|      | 1/24/2024  | Linear algebra (Matrix Power and Norms)                     |                          | 
+| 4    | 1/29/2024  | Linear algebra (Vector space)                               |                          |
+|      | 1/31/2024  | Linear algebra (Matrix Calculus)                            |                          | 
+| 5    | 2/5/2024   | Linear algebra (Linear Transformation)                      |                          |
+|      | 2/7/2024   | Linear algebra (Similarity Transform and Diagonalizable Matrices) |                    |
+| 6    | 2/12/2024  | Linear algebra (System of Linear Equations)                 |                          |
 |      | 2/14/2024  | Linear algebra (System of Linear Equations)                 |                          |
-| 7    | 2/19/2024  | Linear algebra (System of Linear Equations)                 |                          |
-|      | 2/21/2024  | Linear algebra (Eigenvectors and Eigenvalues)               |                          |
+| 7    | 2/19/2024  | Linear algebra (Eigenvectors and Eigenvalues)               |                          |
+|      | 2/21/2024  | Exam                                                        |                          |
 | 8    | 2/26/2024  | No class (Spring break)                                     |                          | 
 |      | 2/28/2024  | No class (Spring break)                                     |                          |
 |      | 3/4/2024   | Linear algebra (Matrix factorization)                       |                          |
 |      | 3/6/2024   | Linear algebra (Singular Value Decomposition)               |                          |
-| 9    | 3/11/2024  | Exam                                                        |                          |
-|      | 3/13/2024  | Probability (Probability)                                   |                          |
-| 10   | 3/18/2024  | Probability (Probability)                                   |                          |
-|      | 3/20/2024  | Probability (Probability distributions)                     |                          |
-| 11   | 3/25/2024  | Probability (Probability distributions)                     |                          |
-|      | 3/27/2024  | Statistical Inference (MLE)                                 |                  |
-| 12   | 4/1/2024   | Statistical Inference (MAP and Bayesian)        |                          |
-|      | 4/3/2024   | Statistical Inference (MAP and Bayesian)        |                 |
-| 13   | 4/8/2024  | Neural Networks                                 |                          |
-|      | 4/10/2024  | Random walk and Markov chain                    |                          | 
-| 14   | 4/15/2024  | MCMC (Metropolis Hastings and Gibbs sampling)   |                          |
-|      | 4/17/2024  | Optimization (Gradient Descent)                 |                  |
+| 9    | 3/11/2024  | Probability (Probability)                                   |                          |
+|      | 3/13/2024  | Probability (Probability distributions)                     |                          |
+| 10   | 3/18/2024  | Probability (Probability distributions)                     |                          |
+|      | 3/20/2024  | Statistical Inference (MLE)                                 |                          |
+| 11   | 3/25/2024  | Statistical Inference (MAP and Bayesian)                    |                          |
+|      | 3/27/2024  | Limit theorems and concentration inequalities               |                          |
+| 12   | 4/1/2024   | Artificial Neural Networks                                  |                          |
+|      | 4/3/2024   | Statistical Inference (MAP and Bayesian)                    |                          |
+| 13   | 4/8/2024   | Random walk and Markov chain                                |                          |
+|      | 4/10/2024  | MCMC (Metropolis Hastings and Gibbs sampling)               |                          |          
+| 14   | 4/15/2024  | Optimization (Gradient Descent)                             |                          |
+|      | 4/17/2024  | Optimization (Variations of Gradient Descent)               |                  |
 | 15   | 4/22/2024  | Optimization (Alternative First-order and Second-order methods)  |         |
 |      | 4/25/2024  | Recap                                           |                          |
