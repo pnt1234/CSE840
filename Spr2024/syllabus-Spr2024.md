@@ -52,10 +52,10 @@ A tentative class schedule can be found [here](https://pnt1234.github.io/CSE840/
 
 ### Course Assessment:
 Students will be assessed based on the following:
-- Homework (50%)
+- Homework (40%)
 - Online quizzes (25%)
 - Project (10%)
-- Exam (10%)
+- Exam (20%)
 - Attendance (5%)
 
 The final grade will be determined based on the following scale:
