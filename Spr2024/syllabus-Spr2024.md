@@ -7,7 +7,7 @@
 - Lecture Location: Erickson Hall 103
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
-- Instructor's office hours: Mon, Wed 2:30-3:30pm
+- Instructor's office hours: Mon, Wed 2:40-3:40pm
 - Teaching Assistant:  Ramin Ghouchani [[email](mailto:akbarigh@msu.edu)] and Mashrur Mahmud Morshed [[email](mailto:morshedm@msu.edu)] 
 - TA's office hours: TBD
 
