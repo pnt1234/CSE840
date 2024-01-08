@@ -9,7 +9,7 @@
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
 - Instructor's office hours: Mon, Wed 2:40-3:40pm
 - Teaching Assistant:  Ramin Ghouchani [[email](mailto:akbarigh@msu.edu)] and Mashrur Mahmud Morshed [[email](mailto:morshedm@msu.edu)] 
-- TA's office hours: TBD
+- TA's office hours: Tue: 3:30-4:30pm (Ramin), Thur: 4-5pm (Mashrur), Fri: 3-4pm (Ramin) and 5-6pm (Mashrur)
 
 ### Course Description: 
 This introductory course is intended to provide the mathematical foundations needed for students interested in AI, machine learning, and other related fields. Upon completion of the course, students are expected to have acquired the mathematical background needed to enroll in graduate-level courses such as CSE 802, CSE 881, CSE 847, and CSE 849. The course will cover fundamental topics in linear algebra, probability and statistics, and optimization, as well  as some basic concepts in learning from data. The course assumes students already have experience programming in python (including how to download and install the relevant python packages and working with Jupyter/python notebook).
