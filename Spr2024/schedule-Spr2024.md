@@ -11,8 +11,8 @@
 | 2    | 1/15/2024  | No class (MLK day)                                          |                          |
 |      | 1/17/2024  | Linear algebra (Matrices and their operations)              |                          |
 | 3    | 1/22/2024  | Linear algebra (Matrix Power and Norms)                     |                          |
-|      | 1/24/2024  | Linear algebra (Vector space)                               |                          | 
-| 4    | 1/29/2024  | Linear algebra (Matrix Calculus)                            |                          |
+|      | 1/24/2024  | Linear algebra (Matrix Calculus)                            |                          | 
+| 4    | 1/29/2024  | Linear algebra (Vector space)                               |                          |
 |      | 1/31/2024  | Linear algebra (Linear Transformation)                      |                          | 
 | 5    | 2/5/2024   | Linear algebra (Similarity Transform and Diagonalizable Matrices) |                    |
 |      | 2/7/2024   | Linear algebra (System of Linear Equations)                 |                          |
