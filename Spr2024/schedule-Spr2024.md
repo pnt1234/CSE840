@@ -18,8 +18,8 @@
 |      | 2/7/2024   | Linear algebra (System of Linear Equations)                 |                          |
 | 6    | 2/12/2024  | Linear algebra (System of Linear Equations)                 |                          |
 |      | 2/14/2024  | Linear algebra (Eigenvectors and Eigenvalues)               |                          |
-| 7    | 2/19/2024  | Exam 1                                                      |                          |
-|      | 2/21/2024  | Linear algebra (Matrix factorization)                       |                          |
+| 7    | 2/19/2024  | Linear algebra (Matrix factorization)                       |                          |
+|      | 2/21/2024  | Exam 1                                                      |                          |
 | 8    | 2/26/2024  | No class (Spring break)                                     |                          | 
 |      | 2/28/2024  | No class (Spring break)                                     |                          |
 |      | 3/4/2024   | Linear algebra (Singular Value Decomposition)               |                          |
