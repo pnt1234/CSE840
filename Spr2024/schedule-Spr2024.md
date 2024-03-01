@@ -22,19 +22,17 @@
 |      | 2/21/2024  | Exam 1                                                      |                          |
 | 8    | 2/26/2024  | No class (Spring break)                                     |                          | 
 |      | 2/28/2024  | No class (Spring break)                                     |                          |
-|      | 3/4/2024   | Linear algebra (Singular Value Decomposition)               |                          |
+| 9    | 3/4/2024   | Linear algebra (Singular Value Decomposition)               |                          |
 |      | 3/6/2024   | Probability (Introduction)                                  |                          |
-| 9    | 3/11/2024  | Probability (Probability distributions)                     |                          |
+| 10   | 3/11/2024  | Probability (Probability distributions)                     |                          |
 |      | 3/13/2024  | Statistics (Sampling and Likelihood Function)               |                          |
-| 10   | 3/18/2024  | Statistical Inference (MLE)                                 |                          |
+| 11   | 3/18/2024  | Statistical Inference (MLE)                                 |                          |
 |      | 3/20/2024  | Statistical Inference (MAP and Bayesian)                    |                          |
-| 11   | 3/25/2024  | Limit theorems and concentration inequalities               |                          |
+| 12   | 3/25/2024  | Limit theorems and concentration inequalities               |                          |
 |      | 3/27/2024  | Artificial Neural Networks                                  |                          |
-| 12   | 4/1/2024   | Exam 2                                                      |                          |
+| 13   | 4/1/2024   | Exam 2                                                      |                          |
 |      | 4/3/2024   | Random walk and Markov chain                                |                          |
-| 13   | 4/8/2024   | MCMC (Metropolis Hastings and Gibbs sampling)               |                          |
+| 14   | 4/8/2024   | MCMC (Metropolis Hastings and Gibbs sampling)               |                          |
 |      | 4/10/2024  | Optimization (Gradient Descent)                             |                          |          
-| 14   | 4/15/2024  | Optimization (Convexity)                                    |                          |
-|      | 4/17/2024  | Optimization (Variations of Gradient Descent)               |                          |
-| 15   | 4/22/2024  | Optimization (Alternative First-order and Second-order methods)  |                     |
-|      | 4/25/2024  | Recap                                                       |                          |
+| 15   | 4/15/2024  | Optimization (Variations of Gradient Descent)               |                          |
+|      | 4/17/2024  | Optimization (Alternative First-order and Second-order methods)  |                     |
