@@ -25,7 +25,7 @@
 | 9    | 3/4/2024   | Linear algebra (Singular Value Decomposition)               |                          |
 |      | 3/6/2024   | Probability (Introduction)                                  |                          |
 | 10   | 3/11/2024  | Probability (Probability distributions)                     |                          |
-|      | 3/13/2024  | Statistics (Probability distributions)               |                          |
+|      | 3/13/2024  | Probability (Probability distributions)                     |                          |
 | 11   | 3/18/2024  | Statistical Inference (MLE)                                 |                          |
 |      | 3/20/2024  | Statistical Inference (MAP and Bayesian)                    |                          |
 | 12   | 3/25/2024  | Limit theorems and concentration inequalities               |                          |
