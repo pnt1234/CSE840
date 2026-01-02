@@ -36,3 +36,4 @@
 |      | 4/15/2026  | Optimization (Gradient Descent)                             |                          |          
 | 15   | 4/20/2026  | Optimization (Variations of Gradient Descent)               |                          |
 |      | 4/22/2026  | Optimization (Alternative First-order and Second-order methods)  |                     |
+| 16   | 4/27/2026  | Final Exam (12:45-2:45pm)                                   |                          |
