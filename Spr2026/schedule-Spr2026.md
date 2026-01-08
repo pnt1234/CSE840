@@ -20,20 +20,20 @@
 |      | 2/18/2026  | Linear algebra (Eigenvectors and Eigenvalues)               |                          |
 | 7    | 2/23/2026  | Linear algebra (Matrix factorization)                       |                          |
 |      | 2/25/2026  | Exam 1                                                      |                          |
-| 8    | 3/2/2026  | No class (Spring break)                                     |                          | 
-|      | 3/4/2026  | No class (Spring break)                                     |                          |
+| 8    | 3/2/2026  | No class (Spring break)                                      |                          | 
+|      | 3/4/2026  | No class (Spring break)                                      |                          |
 | 9    | 3/9/2026   | Linear algebra (Singular Value Decomposition)               |                          |
-|      | 3/11/2026   | Probability (Introduction)                                  |                          |
+|      | 3/11/2026   | Probability (Introduction)                                 |                          |
 | 10   | 3/16/2026  | Probability (Probability distributions)                     |                          |
 |      | 3/18/2026  | Probability (Probability distributions)                     |                          |
 | 11   | 3/23/2026  | Statistical Inference (MLE)                                 |                          |
 |      | 3/25/2026  | Statistical Inference (MAP and Bayesian)                    |                          |
 | 12   | 3/30/2026  | Limit theorems and concentration inequalities               |                          |
-|      | 4/1/2026  | Artificial Neural Networks                                  |                          |
-| 13   | 4/6/2026   | Exam 2                                                      |                          |
-|      | 4/8/2026   | Random walk and Markov chain                                |                          |
-| 14   | 4/13/2026   | MCMC (Metropolis Hastings and Gibbs sampling)               |                          |
-|      | 4/15/2026  | Optimization (Gradient Descent)                             |                          |          
-| 15   | 4/20/2026  | Optimization (Variations of Gradient Descent)               |                          |
-|      | 4/22/2026  | Optimization (Alternative First-order and Second-order methods)  |                     |
+|      | 4/1/2026   |  Random walk and Markov chain                               |                          |
+| 13   | 4/6/2026   |  MCMC (Metropolis Hastings and Gibbs sampling)              |                          |
+|      | 4/8/2026   | Optimization (Gradient Descent)                             |                          |
+| 14   | 4/13/2026  | Optimization (Variations of Gradient Descent)               |                          |
+|      | 4/15/2026  | Optimization (Alternative First-order and Second-order methods) |                      |          
+| 15   | 4/20/2026  | Computational Graph and Artificial Neural Networks          |                          |
+|      | 4/22/2026  | Computational Graph and Artificial Neural Networks          |                          |
 | 16   | 4/27/2026  | Final Exam (12:45-2:45pm)                                   |                          |
