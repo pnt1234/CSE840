@@ -35,5 +35,5 @@
 | 14   | 4/13/2026  | Optimization (Variations of Gradient Descent)               |                          |
 |      | 4/15/2026  | Optimization (Alternative First-order and Second-order methods) |    Quiz 9            |          
 | 15   | 4/20/2026  | Computational Graph and Artificial Neural Networks          |                          |
-|      | 4/22/2026  | Computational Graph and Artificial Neural Networks          |      Quiz 10             |
+|      | 4/22/2026  | Artificial Neural Networks                                  |      Quiz 10             |
 | 16   | 4/27/2026  | Final Exam (12:45-2:45pm)                                   |                          |
