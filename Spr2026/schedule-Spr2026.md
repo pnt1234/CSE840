@@ -31,9 +31,9 @@
 | 12   | 3/30/2026  | Limit theorems and concentration inequalities               |                          |
 |      | 4/1/2026   |  Random walk and Markov chain                               |      Quiz 8              |
 | 13   | 4/6/2026   |  MCMC (Metropolis Hastings and Gibbs sampling)              |                          |
-|      | 4/8/2026   | Optimization (Gradient Descent)                             |    Homework 4            |
+|      | 4/8/2026   | Optimization (Gradient Descent)                             |    Quiz 9            |
 | 14   | 4/13/2026  | Optimization (Variations of Gradient Descent)               |                          |
-|      | 4/15/2026  | Optimization (Alternative First-order and Second-order methods) |    Quiz 9            |          
+|      | 4/15/2026  | Optimization (Alternative First-order and Second-order methods) |    Homework 4        |          
 | 15   | 4/20/2026  | Computational Graph and Artificial Neural Networks          |                          |
 |      | 4/22/2026  | Artificial Neural Networks                                  |      Quiz 10             |
 | 16   | 4/27/2026  | Final Exam (12:45-2:45pm)                                   |                          |
