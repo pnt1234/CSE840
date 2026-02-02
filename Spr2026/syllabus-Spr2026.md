@@ -7,7 +7,7 @@
 - Lecture Location: McDonel Hall C107
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
-- Instructor's office hours: Mon 2:45-3:45pm and Fri 8:30-9:30am in EB 2129 or via [[zoom](https://msu.zoom.us/j/92931714382)] (Passcode: 903041)
+- Instructor's office hours: Mon 2:40-3:40pm and Fri 8:30-9:30am in EB 2129 or via [[zoom](https://msu.zoom.us/j/92931714382)] (Passcode: 903041)
 - Teaching Assistant:  Mashrur Mahmud Morshed [[email](mailto:morshedm@msu.edu)] 
 - TA's office hours: Wednesday 5:30-6:30 PM in EB 3105, Friday 3:00-4:00 PM in EB2108; also available via [[zoom](https://msu.zoom.us/j/94704278484)] (Passcode: cse840ta)
 
